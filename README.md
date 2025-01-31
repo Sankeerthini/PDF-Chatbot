@@ -24,13 +24,13 @@ Technologies Used:
 ---
 
 ## 📚 **Table of Contents**  
-- [🖼️ Chatbot Images](#-Chatbot-Images)  
-- [🚀 Getting Started](#-Getting-Started)  
-- [📚 Project Features](#-Project-Features)  
-- [🛠️ Tech Stack](#-Tech-Stack)  
-- [🔧 Configuration Example](#-Configuration-Example)  
-- [📋 Usage Instructions](#-Usage-Instructions)  
-- [⚙️ Dependencies](#-Dependencies) 
+- [🖼️ Chatbot Images](#-chatbot-images)  
+- [🚀 Getting Started](#-getting-started)  
+- [📚 Project Features](#-project-features)  
+- [🛠️ Tech Stack](#-tech-stack)  
+- [🔧 Configuration Example](#-configuration-example)  
+- [📋 Usage Instructions](#-usage-instructions)  
+- [⚙️ Dependencies](#-dependencies)
 
 ---
 
