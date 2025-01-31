@@ -24,7 +24,7 @@ Technologies Used:
 ---
 
 ## 📚 **Table of Contents**  
-- [🖼️ Chatbot Images](#-chatbot-images)
+- [🖼️ Chatbot Images](#-Chatbot-Images)
 - [🚀 Getting Started](#-getting-started)
 - [📚 Project Features](#-project-features)
 - [🛠️ Tech Stack](#-tech-stack)
