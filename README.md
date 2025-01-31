@@ -28,11 +28,10 @@ Technologies Used:
 - [🖼️ Screenshots](#-screenshots)  
 - [🚀 Getting Started](#-getting-started)  
 - [📚 Project Features](#-project-features)  
-- [🛠️ Tech Stack](#️-tech-stack)  
+- [🛠️ Tech Stack](#-tech-stack)  
 - [🔧 Configuration](#-configuration)  
 - [📋 Usage Instructions](#-usage-instructions)  
-- [⚙️ Dependencies](#️-dependencies)  
-- [🛡️ License](#-license)  
+- [⚙️ Dependencies](#-dependencies) 
 
 ---
 
@@ -51,7 +50,7 @@ Technologies Used:
 
 ---
 
-## 🔧 **How to Set Up the Project Locally**  
+## 🔧 **Getting Started**  
 
 ### **Step 1: Clone the Repository**
 ```bash
