@@ -170,6 +170,7 @@ This project combines AI-powered text and image processing to create an interact
 
 🔹 More advanced conversation memory and summaries
 
+
 💻 Contributions are welcome! Feel free to fork the repo and submit a pull request.
 
 🚀 Enjoy using the PDF Chatbot & Image Identifier!
