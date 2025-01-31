@@ -30,7 +30,7 @@ Technologies Used:
 - [🛠️ Tech Stack](#%EF%B8%8F-tech-stack)
 - [🔧 Configuration Example](#-configuration-example)
 - [📋 Usage Instructions](#-usage-instructions)
-- [⚙️ Dependencies](#-dependencies)
+- [⚙️ Dependencies](#%EF%B8%8F-dependencies)
 
 ---
 
