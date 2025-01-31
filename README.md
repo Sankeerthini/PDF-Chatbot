@@ -165,7 +165,9 @@ This project combines AI-powered text and image processing to create an interact
 ### 💡 Future Enhancements:
 
 🔹 Support for additional document formats
+
 🔹 Improved image recognition capabilities
+
 🔹 More advanced conversation memory and summaries
 
 💻 Contributions are welcome! Feel free to fork the repo and submit a pull request.
