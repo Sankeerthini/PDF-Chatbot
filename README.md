@@ -25,13 +25,13 @@ Technologies Used:
 ---
 
 ## 📚 **Table of Contents**  
-- [🖼️ Screenshots](#-screenshots)  
-- [🚀 Getting Started](#-getting-started)  
-- [📚 Project Features](#-project-features)  
-- [🛠️ Tech Stack](#-tech-stack)  
-- [🔧 Configuration](#-configuration)  
-- [📋 Usage Instructions](#-usage-instructions)  
-- [⚙️ Dependencies](#-dependencies) 
+- [🖼️ Screenshots](#-Screenshots)  
+- [🚀 Getting Started](#-Getting-Started)  
+- [📚 Project Features](#-Project-Features)  
+- [🛠️ Tech Stack](#-Tech-Stack)  
+- [🔧 Configuration](#-Configuration-Example)  
+- [📋 Usage Instructions](#-Usage-Instructions)  
+- [⚙️ Dependencies](#-Dependencies) 
 
 ---
 
@@ -107,7 +107,7 @@ Generate concise summaries of chatbot conversations
 
 ---
 
-## ⚙️ **.env Configuration Example**
+## ⚙️ **Configuration Example**
 
 Create a ```.env``` file and add your OpenAI API key:
 
