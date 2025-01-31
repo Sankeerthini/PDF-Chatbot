@@ -163,6 +163,7 @@ pip install -r requirements.txt
 This project combines AI-powered text and image processing to create an interactive chatbot and image captioning tool. Whether you need to query PDFs or generate automatic descriptions for images, this tool is fast, efficient, and easy to use.
 
 ### 💡 Future Enhancements:
+
 🔹 Support for additional document formats
 🔹 Improved image recognition capabilities
 🔹 More advanced conversation memory and summaries
