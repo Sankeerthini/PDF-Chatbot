@@ -49,7 +49,7 @@ Technologies Used:
 
 ---
 
-## 🔧 **Getting Started**  
+## 🚀 **Getting Started**  
 
 ### **Step 1: Clone the Repository**
 ```bash
@@ -106,7 +106,7 @@ Generate concise summaries of chatbot conversations
 
 ---
 
-## ⚙️ **Configuration Example**
+## 🔧 **Configuration Example**
 
 Create a ```.env``` file and add your OpenAI API key:
 
@@ -133,7 +133,7 @@ Clear chat history or generate summaries
 
 ---
 
-## 📚 **Dependencies**
+## ⚙️ **Dependencies**
 
 Make sure the following packages are installed:
 
