@@ -25,17 +25,17 @@ Technologies Used:
 ---
 
 ## 📚 **Table of Contents**  
-- [🖼️ Screenshots](#-Screenshots)  
+- [🖼️ Chatbot Images](#-Chatbot-Images)  
 - [🚀 Getting Started](#-Getting-Started)  
 - [📚 Project Features](#-Project-Features)  
 - [🛠️ Tech Stack](#-Tech-Stack)  
-- [🔧 Configuration](#-Configuration-Example)  
+- [🔧 Configuration Example](#-Configuration-Example)  
 - [📋 Usage Instructions](#-Usage-Instructions)  
 - [⚙️ Dependencies](#-Dependencies) 
 
 ---
 
-## 🖼️ **Screenshots**
+## 🖼️ **Chatbot Images**
 
 ### 1️⃣ **App at First Load**
 ![First Load Screenshot](./Images/1.png)  
