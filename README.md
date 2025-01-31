@@ -1,4 +1,3 @@
-# PDF-Chatbot
 
 # 🧠 **PDF Chatbot & Image Identifier** 🤖🖼️  
 
